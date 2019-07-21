@@ -8,7 +8,7 @@ import numpy as np
 import seaborn as sns
 
 
-#readinf CSV file
+#reading CSV file
 jewelry = pd.read_csv( "/Applications/Queens MMA/MMA 869 Steve Thomas/Project _ Scene/Assignment/jewelry_customers.csv")
 jewelry.head()
 jewelry.info()
